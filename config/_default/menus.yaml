@@ -10,3 +10,9 @@ main:
   - name: Documentation
     url: docs/
     weight: 20
+  - name: Spring Boot
+    url: springboot/
+    weight: 20
+  - name: Java 新特性
+    url: java-feature/
+    weight: 20
