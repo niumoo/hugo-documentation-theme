@@ -1,6 +1,7 @@
 ---
 title: Spring Boot 入门篇
 date: 2019-01-01 15:14:17
+type: book
 ---
 > 注意：本 Spring Boot 系列文章基于 Spring Boot 版本 **v2.1.1.RELEASE** 进行学习分析，版本不同可能会有细微差别。
 
